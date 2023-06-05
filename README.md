@@ -35,3 +35,9 @@ If you only want to run the training process with a max_leaf value of 3 million,
 	python3 tuning_and_overfitting 0
 
 	
+## Credit
+A special thanks to my peers who completed this group project with me:
+ - Mina Na
+ - Ji Hye Kim
+ - Lauren Wu
+ - Michael Agius

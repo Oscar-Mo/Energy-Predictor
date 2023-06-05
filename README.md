@@ -1,4 +1,7 @@
-# 9417 Group Project
+# A Model for Predicting Energy Consumption
+This is a project I completed with four other students whilst in my final trimester at UNSW. We were awarded the Innovative Application of Artificial Intelligence award by Berrijam for our results - see our team name on the [official jam page](https://www.berrijam.com/jam) :)
+
+## Original Kaggle Competition
 See the [official competition page](https://www.kaggle.com/competitions/ashrae-energy-prediction/overview).
 Just to avoid confusion, please note that whilst the kaggle data has a test.csv file, we do not use it for validation as it is not labeled.
 
